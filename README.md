@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shre1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shre1n" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/robin hahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin hahn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shrein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shrein" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/robin-hahn-5a11b4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin hahn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23374603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shrein" height="30" width="40" /></a>
 <a href="https://instagram.com/lag_st_ep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lag_st_ep" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrein" height="30" width="40" /></a>
 <a href="https://discord.gg/287609187771613184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="287609187771613184" height="30" width="40" /></a>
